@@ -1,2 +1,2 @@
 # Search-Rest-Api
-Springboot Rest Api to implement search using JPQL and native SQL
+Search Resp Api using JPQL and native SQL.
